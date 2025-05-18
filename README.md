@@ -1,0 +1,12 @@
+- 👋 Hi, I’m Muhammad Nadeem
+- 👀 I’m interested in Network and Cyber Security Projects
+- 🌱 I’m currently learning Python and want exposure in Cloud Infrastructures
+- 💞️ I’m looking to collaborate on new Projects
+- 📫 You can reach me on madin124@gmail.com / 0092-3139994838
+- 😄 Pronouns: Nadeem
+- ⚡ Fun fact: Be nice to Everyone
+
+<!---
+madin124/madin124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
